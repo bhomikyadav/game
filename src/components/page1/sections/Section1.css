@@ -31,3 +31,6 @@
     height: 26px;
     width: 60%;
 }
+.s1d2>button:hover{
+    cursor: pointer;
+}
