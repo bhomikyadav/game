@@ -4,7 +4,7 @@ import Navbar from './Navbar/Navbar'
 
 function Homepage() {
     return (
-        <div style={{backgroundColor:'black',paddingBottom:'20vh'}}>
+        <div style={{backgroundColor:'black',paddingBottom:'20vh',opacity:'0.9'}}>
             <Navbar/>
             <Form/>
         </div>
